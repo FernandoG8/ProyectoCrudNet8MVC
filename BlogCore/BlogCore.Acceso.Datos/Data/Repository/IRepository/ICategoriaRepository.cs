@@ -1,0 +1,17 @@
+﻿using BlogCore.Models;
+using BlogCore.Acceso.Datos.Data.Repository.IRepository;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BlogCore.AccesoDatos.Data.Repository.IRepository
+{
+    public interface ICategoriaRepository : IRepository<Categoria>
+    {
+        void Update(Categoria categoria);
+    }
+    
+    
+}
