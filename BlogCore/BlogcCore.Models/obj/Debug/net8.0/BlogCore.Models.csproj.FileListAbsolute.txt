@@ -5,6 +5,7 @@ C:\Users\fwscg\OneDrive\Desktop\Curso_Net8_MVC\BlogCore\BlogcCore.Models\obj\Deb
 C:\Users\fwscg\OneDrive\Desktop\Curso_Net8_MVC\BlogCore\BlogcCore.Models\obj\Debug\net8.0\BlogCore.Models.AssemblyInfoInputs.cache
 C:\Users\fwscg\OneDrive\Desktop\Curso_Net8_MVC\BlogCore\BlogcCore.Models\obj\Debug\net8.0\BlogCore.Models.AssemblyInfo.cs
 C:\Users\fwscg\OneDrive\Desktop\Curso_Net8_MVC\BlogCore\BlogcCore.Models\obj\Debug\net8.0\BlogCore.Models.csproj.CoreCompileInputs.cache
+C:\Users\fwscg\OneDrive\Desktop\Curso_Net8_MVC\BlogCore\BlogcCore.Models\obj\Debug\net8.0\BlogCore.Models.sourcelink.json
 C:\Users\fwscg\OneDrive\Desktop\Curso_Net8_MVC\BlogCore\BlogcCore.Models\obj\Debug\net8.0\BlogCore.Models.dll
 C:\Users\fwscg\OneDrive\Desktop\Curso_Net8_MVC\BlogCore\BlogcCore.Models\obj\Debug\net8.0\refint\BlogCore.Models.dll
 C:\Users\fwscg\OneDrive\Desktop\Curso_Net8_MVC\BlogCore\BlogcCore.Models\obj\Debug\net8.0\BlogCore.Models.pdb

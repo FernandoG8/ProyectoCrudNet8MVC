@@ -12,6 +12,8 @@ namespace BlogCore.AccesoDatos.Data.Repository.IRepository
     {
         // Aqui se deben de ir agregando todo los repositorios que se vayan creando
         ICategoriaRepository Categoria { get; }
+        IArticuloRepository Articulo { get; }
+        ISliderRepository Slider{ get; }
         void Save();
     }
 }

@@ -13,12 +13,36 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\0065a5e5-c6dd-4be6-ad18-ed5f78d0e395.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\0065a5e5-c6dd-4be6-ad18-ed5f78d0e395.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\053c0da9-0804-4767-8379-cc8b5503395b.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\053c0da9-0804-4767-8379-cc8b5503395b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\8489cc5c-47c1-4504-8239-ce34463a69a3.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\8489cc5c-47c1-4504-8239-ce34463a69a3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\98869f3e-f57f-433a-b068-e8ca40bf45f9.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\98869f3e-f57f-433a-b068-e8ca40bf45f9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\js\\articulos.js",
+      "PackagePath": "staticwebassets\\js\\articulos.js"
+    },
+    {
       "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\js\\categoria.js",
       "PackagePath": "staticwebassets\\js\\categoria.js"
     },
     {
       "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\js\\slider.js",
+      "PackagePath": "staticwebassets\\js\\slider.js"
     },
     {
       "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\LICENSE",

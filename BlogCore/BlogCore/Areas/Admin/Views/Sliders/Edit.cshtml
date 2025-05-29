@@ -1,0 +1,62 @@
+﻿@model BlogCore.Models.Slider
+
+@{
+    ViewData["Title"] = "Editar Slider";
+}
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <!-- Formulario a la izquierda, imagen a la derecha -->
+        <div class="col-md-8">
+            <h3 class="text-center mb-4">Editar el Slider</h3>
+            <div class="row">
+                <!-- Columna del formulario -->
+                <div class="col-md-8">
+                    <form method="POST" asp-action="Edit" enctype="multipart/form-data" class="border p-4 rounded shadow-sm">
+                        <div asp-validation-summary="All" class="text-danger mb-3"></div>
+
+                        <input type="hidden" asp-for="Id" />
+
+                        <div class="form-group mb-3">
+                            <label asp-for="Nombre" class="form-label fw-bold">Nombre del Slider</label>
+                            <input asp-for="Nombre" class="form-control" placeholder="Ingresa el nombre del slider" />
+                            <span asp-validation-for="Nombre" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <div class="form-check">
+                                <input type="checkbox" asp-for="Estado" class="form-check-input" id="estadoCheck" />
+                                <label asp-for="Estado" class="form-check-label" for="estadoCheck">Activo</label>
+                                <span asp-validation-for="Estado" class="text-danger d-block"></span>
+                            </div>
+                        </div>
+
+                        <div class="form-group mb-4">
+                            <label for="subidaArchivo" class="form-label fw-bold">Imagen del Slider</label>
+                            <input type="file" name="archivos" id="subidaArchivo" class="form-control" accept="image/*" />
+                            <span asp-validation-for="UrlImagen" class="text-danger"></span>
+                        </div>
+
+                        <div class="row">
+                            <div class="col">
+                                <button type="submit" class="btn btn-primary form-control">Editar Slider </button>
+                            </div>
+                            &nbsp;
+                            <div class="col">
+                                <a asp-action="Index" class="btn btn-success form-control">Volver atrás</a>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <!-- Columna de la imagen -->
+                <div class="col-md-4 d-flex align-items-start justify-content-center">
+                    <img src="@Model.UrlImagen" width="300px" style="border-radius:5px; border:1px solid #bbb9b9; margin-top:10px;" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

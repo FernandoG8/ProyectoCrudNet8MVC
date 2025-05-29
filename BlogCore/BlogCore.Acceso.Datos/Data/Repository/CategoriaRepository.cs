@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace BlogCore.AccesoDatos.Data.Repository
 {
@@ -16,12 +17,23 @@ namespace BlogCore.AccesoDatos.Data.Repository
         {
             _db = db;
         }
+
+        public IEnumerable<SelectListItem> GetListaCategorias()
+        {
+            return _db.Categoria.Select(i => new SelectListItem()
+            {
+                Text = i.Nombre,
+                Value = i.Id.ToString()
+
+            });      
+            }
+
         public void Update(Categoria categoria)
         {
             var  objeDesdeDb = _db.Categoria.FirstOrDefault(c => c.Id == categoria.Id);
             objeDesdeDb.Nombre = categoria.Nombre;
             objeDesdeDb.Orden = categoria.Orden;
-            _db.SaveChanges();
+         //   _db.SaveChanges();
         }
     }
     
