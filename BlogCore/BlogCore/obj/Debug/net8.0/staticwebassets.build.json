@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7Uhvubhx6ynSr13k5/TFgndjYHA2F7dOr5gYQjpHrkQ=",
+  "Hash": "rPvl+afEUpOINBwOXc8bWbMdq9EAT9BUaEcyuGCY/yw=",
   "Source": "BlogCore",
   "BasePath": "_content/BlogCore",
   "Mode": "Default",
@@ -1271,12 +1271,12 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\053c0da9-0804-4767-8379-cc8b5503395b.jpg"
     },
     {
-      "Identity": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\8489cc5c-47c1-4504-8239-ce34463a69a3.jpg",
+      "Identity": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\0-manga-illustrator-portfolio___media_library_original_1600_900.webp",
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\",
       "BasePath": "_content/BlogCore",
-      "RelativePath": "imagenes/sliders/8489cc5c-47c1-4504-8239-ce34463a69a3.jpg",
+      "RelativePath": "imagenes/sliders/0-manga-illustrator-portfolio___media_library_original_1600_900.webp",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1287,15 +1287,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\8489cc5c-47c1-4504-8239-ce34463a69a3.jpg"
+      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\0-manga-illustrator-portfolio___media_library_original_1600_900.webp"
     },
     {
-      "Identity": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\98869f3e-f57f-433a-b068-e8ca40bf45f9.jpg",
+      "Identity": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\48ca3ce2-609a-4f28-933a-97358422300b.webp",
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\",
       "BasePath": "_content/BlogCore",
-      "RelativePath": "imagenes/sliders/98869f3e-f57f-433a-b068-e8ca40bf45f9.jpg",
+      "RelativePath": "imagenes/sliders/48ca3ce2-609a-4f28-933a-97358422300b.webp",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1306,7 +1306,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\98869f3e-f57f-433a-b068-e8ca40bf45f9.jpg"
+      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\48ca3ce2-609a-4f28-933a-97358422300b.webp"
+    },
+    {
+      "Identity": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\imagenes-de-finanzas.jpg",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "imagenes/sliders/imagenes-de-finanzas.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\imagenes-de-finanzas.jpg"
     },
     {
       "Identity": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\js\\articulos.js",

@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A98097E-DA58-40D4-90BF-0569C0D1AAC2}|BlogCore\\BlogCore.csproj|c:\\users\\fwscg\\onedrive\\desktop\\curso_net8_mvc\\blogcore\\blogcore\\areas\\admin\\views\\sliders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A98097E-DA58-40D4-90BF-0569C0D1AAC2}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\sliders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8A98097E-DA58-40D4-90BF-0569C0D1AAC2}|BlogCore\\BlogCore.csproj|c:\\users\\fwscg\\onedrive\\desktop\\curso_net8_mvc\\blogcore\\blogcore\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A98097E-DA58-40D4-90BF-0569C0D1AAC2}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A98097E-DA58-40D4-90BF-0569C0D1AAC2}|BlogCore\\BlogCore.csproj|c:\\users\\fwscg\\onedrive\\desktop\\curso_net8_mvc\\blogcore\\blogcore\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A98097E-DA58-40D4-90BF-0569C0D1AAC2}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A98097E-DA58-40D4-90BF-0569C0D1AAC2}|BlogCore\\BlogCore.csproj|c:\\users\\fwscg\\onedrive\\desktop\\curso_net8_mvc\\blogcore\\blogcore\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A98097E-DA58-40D4-90BF-0569C0D1AAC2}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A98097E-DA58-40D4-90BF-0569C0D1AAC2}|BlogCore\\BlogCore.csproj|c:\\users\\fwscg\\onedrive\\desktop\\curso_net8_mvc\\blogcore\\blogcore\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A98097E-DA58-40D4-90BF-0569C0D1AAC2}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A98097E-DA58-40D4-90BF-0569C0D1AAC2}|BlogCore\\BlogCore.csproj|c:\\users\\fwscg\\onedrive\\desktop\\curso_net8_mvc\\blogcore\\blogcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A98097E-DA58-40D4-90BF-0569C0D1AAC2}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +30,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -23,14 +47,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Sliders\\Edit.cshtml",
-              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\Sliders\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Sliders\\Edit.cshtml",
-              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Views\\Sliders\\Edit.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAmwCoAAAAiAAAAAAAAAA==",
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAjwG8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:06:46.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAADUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-29T21:28:46.624Z",
+              "WhenOpened": "2025-05-30T18:58:06.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\Program.cs",
+              "RelativeDocumentMoniker": "BlogCore\\Program.cs",
+              "ToolTip": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\Program.cs",
+              "RelativeToolTip": "BlogCore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T18:57:44.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ManageNav.cshtml",
+              "DocumentMoniker": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ToolTip": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T18:55:50.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "BlogCore\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T18:49:49.211Z",
               "EditorCaption": ""
             }
           ]
