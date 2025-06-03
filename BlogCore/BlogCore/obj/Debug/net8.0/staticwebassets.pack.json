@@ -21,12 +21,92 @@
       "PackagePath": "staticwebassets\\imagenes\\articulos\\053c0da9-0804-4767-8379-cc8b5503395b.jpg"
     },
     {
+      "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\2fc0949a-3020-4418-bc90-645c8310b6a5.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\2fc0949a-3020-4418-bc90-645c8310b6a5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\49742bc1-42f1-41c8-90de-a5cf9d6cee63.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\49742bc1-42f1-41c8-90de-a5cf9d6cee63.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\50906151-0e88-44ae-bf07-76246740367e.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\50906151-0e88-44ae-bf07-76246740367e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\6c723b5d-d606-4bf7-bf75-1f37f3889882.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\6c723b5d-d606-4bf7-bf75-1f37f3889882.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\99003502-9bb2-4a5b-a533-af54f8e7c785.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\99003502-9bb2-4a5b-a533-af54f8e7c785.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\9a7e6725-4a54-4b23-b1a4-de172cecdecd.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\9a7e6725-4a54-4b23-b1a4-de172cecdecd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\9c4678b8-2ccb-4cb5-944f-ae3e083492fb.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\9c4678b8-2ccb-4cb5-944f-ae3e083492fb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\aefc074c-31b3-4143-b9c6-9e18ba67077b.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\aefc074c-31b3-4143-b9c6-9e18ba67077b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\b9797eb6-4e2a-41ec-bc8b-721c23795c2a.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\b9797eb6-4e2a-41ec-bc8b-721c23795c2a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\de723e91-2668-45f5-8c12-0dab55a414d6.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\de723e91-2668-45f5-8c12-0dab55a414d6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\ee4a25cb-a4b1-49bc-8a40-11b352922cfe.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\ee4a25cb-a4b1-49bc-8a40-11b352922cfe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\blogger.png",
+      "PackagePath": "staticwebassets\\imagenes\\blogger.png"
+    },
+    {
+      "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\bloquear.png",
+      "PackagePath": "staticwebassets\\imagenes\\bloquear.png"
+    },
+    {
+      "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\fondo-banner.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\fondo-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\no-autorizado.png",
+      "PackagePath": "staticwebassets\\imagenes\\no-autorizado.png"
+    },
+    {
       "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\0-manga-illustrator-portfolio___media_library_original_1600_900.webp",
       "PackagePath": "staticwebassets\\imagenes\\sliders\\0-manga-illustrator-portfolio___media_library_original_1600_900.webp"
     },
     {
+      "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\2a57413e-c7fa-4b15-b612-25af2f91539c.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\2a57413e-c7fa-4b15-b612-25af2f91539c.jpg"
+    },
+    {
       "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\48ca3ce2-609a-4f28-933a-97358422300b.webp",
       "PackagePath": "staticwebassets\\imagenes\\sliders\\48ca3ce2-609a-4f28-933a-97358422300b.webp"
+    },
+    {
+      "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\49c856d2-81b7-4c8a-a367-0ebcf0bb272c.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\49c856d2-81b7-4c8a-a367-0ebcf0bb272c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\5c14df6e-5f34-443b-9719-15f2e1e48c05.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\5c14df6e-5f34-443b-9719-15f2e1e48c05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\71105fb0-3cb6-48a2-9b12-66a2f9f5a3ae.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\71105fb0-3cb6-48a2-9b12-66a2f9f5a3ae.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\a2b2ffc7-aa10-4e4b-aac3-d4b274e0855d.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\a2b2ffc7-aa10-4e4b-aac3-d4b274e0855d.jpg"
     },
     {
       "Id": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\imagenes-de-finanzas.jpg",

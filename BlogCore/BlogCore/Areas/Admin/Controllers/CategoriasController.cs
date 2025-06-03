@@ -1,9 +1,11 @@
 ﻿using BlogCore.AccesoDatos.Data.Repository.IRepository;
 using BlogCore.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BlogCore.Areas.Admin.Controllers
 {
+    [Authorize(Roles ="Administrador")]
     [Area ("Admin")]
     public class CategoriasController : Controller
     {
@@ -18,6 +20,7 @@ namespace BlogCore.Areas.Admin.Controllers
             return View();
         }
 
+        // es para poder permitir que se puedan acceder sin necesidad de tener los permisos[AllowAnonymous]
         [HttpGet]
         public IActionResult Create()
         {

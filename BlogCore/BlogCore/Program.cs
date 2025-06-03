@@ -1,3 +1,4 @@
+﻿using BlogCore.AccesoDatos.Data.Iniciador;
 using BlogCore.AccesoDatos.Data.Repository;
 using BlogCore.AccesoDatos.Data.Repository.IRepository;
 using BlogCore.Data;
@@ -13,11 +14,16 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = false)
-    .AddEntityFrameworkStores<ApplicationDbContext>();
+builder.Services.AddIdentity<ApplicationUser, IdentityRole>(options => options.SignIn.RequireConfirmedAccount = false)
+    .AddEntityFrameworkStores<ApplicationDbContext>()
+    .AddDefaultUI()
+    .AddDefaultTokenProviders();
 builder.Services.AddControllersWithViews();
-//Agregar contenedor de trabaho al IoC de iyenciciond e dependendcias
+//Agregar contenedor de trabajo al contenedor IoC de inyecci�n de dependencias
 builder.Services.AddScoped<IContenedorTrabajo, ContenedorTrabajo>();
+
+//Siembra de datos - Paso 1
+builder.Services.AddScoped<IInicializadorBD, InicializadorBD>();
 
 
 var app = builder.Build();
@@ -33,6 +39,10 @@ else
 }
 app.UseStaticFiles();
 
+//Método que ejecuta la siembra de datos
+SiembraDatos();
+
+app.UseRouting();
 
 app.UseAuthorization();
 
@@ -42,3 +52,13 @@ app.MapControllerRoute(
 app.MapRazorPages();
 
 app.Run();
+
+//Funcionalidad método SiembraDeDatos();
+void SiembraDatos()
+{
+    using (var scope = app.Services.CreateScope())
+    {
+        var inicializadorBD = scope.ServiceProvider.GetRequiredService<IInicializadorBD>();
+        inicializadorBD.Inicializar();
+    }
+}

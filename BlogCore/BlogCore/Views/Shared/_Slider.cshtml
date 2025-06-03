@@ -1,33 +1,92 @@
-﻿
-@model BlogCore.Models.ViewModels.HomeVM
+﻿@model BlogCore.Models.ViewModels.HomeVM
+
 <!--Slider-->
-<div id="" class="carousel carousel-dark slide">
-   
-    <div class="carousel-inner">
-                @{
-            int cont = 0;
+<div id="carouselSlider" class="carousel carousel-dark slide" data-bs-ride="carousel">
+
+    <!-- Indicadores -->
+    <div class="carousel-indicators">
+        @{
+            int indicatorIndex = 0;
         }
-        @foreach(var slider in Model.Sliders){
-		{
-			var itemDinamico = cont++ == 0 ? "active" : "";
-                @if(slider.Estado == true)
-                {
-                    <div class="carousel-item @itemDinamico"> 
-                        <img src="@Url.Content(slider.UrlImagen)" class="d-block w-100" alt="@slider.Nombre" />
-                        <h1 class="text-dark text-center bg-dark py-1"> @Html.Raw(slider.Nombre)</h1>
-                    </div>
-                }
+        @foreach (var slider in Model.Sliders)
+        {
+            @if (slider.Estado == true)
+            {
+                var activeIndicator = indicatorIndex == 0 ? "active" : "";
+                <button type="button" data-bs-target="#carouselSlider" data-bs-slide-to="@indicatorIndex"
+                        class="@activeIndicator" aria-current="@(indicatorIndex == 0 ? "true" : "false")"
+                        aria-label="Slide @(indicatorIndex + 1)"></button>
+                indicatorIndex++;
             }
         }
-
     </div>
-    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
+
+    <!-- Slides -->
+    <div class="carousel-inner">
+        @{
+            int cont = 0;
+        }
+        @foreach (var slider in Model.Sliders)
+        {
+            @if (slider.Estado == true)
+            {
+                var itemDinamico = cont++ == 0 ? "active" : "";
+                <div class="carousel-item @itemDinamico">
+                    <img src="@Url.Content(slider.UrlImagen)" class="d-block w-100" alt="@slider.Nombre" />
+                    <div class="carousel-caption d-none d-md-block">
+                        <h1 class="text-white bg-dark bg-opacity-75 py-2 px-3 rounded">
+                            @Html.Raw(slider.Nombre)
+                        </h1>
+                    </div>
+                </div>
+            }
+        }
+    </div>
+
+    <!-- Controles Previous/Next -->
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselSlider" data-bs-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="visually-hidden">Previous</span>
     </button>
-    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselSlider" data-bs-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="visually-hidden">Next</span>
     </button>
 </div>
-<!--Cierre de SLider-->
+<!--Cierre de Slider-->
+
+<style>
+    .carousel-item img {
+        border-radius: 10px;
+        max-height: auto; /* Ajusta este valor según sea necesario */
+        width: auto; /* Permite que el ancho se ajuste al tamaño original */
+        margin: auto; /* Centra la imagen horizontalmente */
+    }
+
+    .carousel-caption h1 {
+        font-size: 2rem;
+        font-weight: bold;
+        text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    }
+
+    .carousel-control-prev,
+    .carousel-control-next {
+        width: 5%;
+    }
+
+    .carousel-control-prev-icon,
+    .carousel-control-next-icon {
+        background-size: 100%, 100%;
+        border-radius: 50%;
+        background-color: rgba(0,0,0,0.5);
+        width: 2rem;
+        height: 2rem;
+    }
+
+    .carousel-indicators button {
+        width: 12px;
+        height: 12px;
+        border-radius: 50%;
+        margin: 0 3px;
+    }
+</style>
