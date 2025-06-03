@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\ProyectoDatabaseFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5B5DBC-5B21-4D17-A663-FA3281467DE1}|ProyectoDatabaseFirst\\ProyectoDatabaseFirst.csproj|c:\\users\\fwscg\\onedrive\\desktop\\curso_net8_mvc\\proyectodatabasefirst\\proyectodatabasefirst\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5B5DBC-5B21-4D17-A663-FA3281467DE1}|ProyectoDatabaseFirst\\ProyectoDatabaseFirst.csproj|solutionrelative:proyectodatabasefirst\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5B5DBC-5B21-4D17-A663-FA3281467DE1}|ProyectoDatabaseFirst\\ProyectoDatabaseFirst.csproj|c:\\users\\fwscg\\onedrive\\desktop\\curso_net8_mvc\\proyectodatabasefirst\\proyectodatabasefirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D5B5DBC-5B21-4D17-A663-FA3281467DE1}|ProyectoDatabaseFirst\\ProyectoDatabaseFirst.csproj|solutionrelative:proyectodatabasefirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5B5DBC-5B21-4D17-A663-FA3281467DE1}|ProyectoDatabaseFirst\\ProyectoDatabaseFirst.csproj|c:\\users\\fwscg\\onedrive\\desktop\\curso_net8_mvc\\proyectodatabasefirst\\proyectodatabasefirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5B5DBC-5B21-4D17-A663-FA3281467DE1}|ProyectoDatabaseFirst\\ProyectoDatabaseFirst.csproj|solutionrelative:proyectodatabasefirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5B5DBC-5B21-4D17-A663-FA3281467DE1}|ProyectoDatabaseFirst\\ProyectoDatabaseFirst.csproj|c:\\users\\fwscg\\onedrive\\desktop\\curso_net8_mvc\\proyectodatabasefirst\\proyectodatabasefirst\\models\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5B5DBC-5B21-4D17-A663-FA3281467DE1}|ProyectoDatabaseFirst\\ProyectoDatabaseFirst.csproj|solutionrelative:proyectodatabasefirst\\models\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5B5DBC-5B21-4D17-A663-FA3281467DE1}|ProyectoDatabaseFirst\\ProyectoDatabaseFirst.csproj|c:\\users\\fwscg\\onedrive\\desktop\\curso_net8_mvc\\proyectodatabasefirst\\proyectodatabasefirst\\models\\continente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5B5DBC-5B21-4D17-A663-FA3281467DE1}|ProyectoDatabaseFirst\\ProyectoDatabaseFirst.csproj|solutionrelative:proyectodatabasefirst\\models\\continente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5B5DBC-5B21-4D17-A663-FA3281467DE1}|ProyectoDatabaseFirst\\ProyectoDatabaseFirst.csproj|c:\\users\\fwscg\\onedrive\\desktop\\curso_net8_mvc\\proyectodatabasefirst\\proyectodatabasefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D5B5DBC-5B21-4D17-A663-FA3281467DE1}|ProyectoDatabaseFirst\\ProyectoDatabaseFirst.csproj|solutionrelative:proyectodatabasefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5B5DBC-5B21-4D17-A663-FA3281467DE1}|ProyectoDatabaseFirst\\ProyectoDatabaseFirst.csproj|c:\\users\\fwscg\\onedrive\\desktop\\curso_net8_mvc\\proyectodatabasefirst\\proyectodatabasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5B5DBC-5B21-4D17-A663-FA3281467DE1}|ProyectoDatabaseFirst\\ProyectoDatabaseFirst.csproj|solutionrelative:proyectodatabasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5B5DBC-5B21-4D17-A663-FA3281467DE1}|ProyectoDatabaseFirst\\ProyectoDatabaseFirst.csproj|c:\\users\\fwscg\\onedrive\\desktop\\curso_net8_mvc\\proyectodatabasefirst\\proyectodatabasefirst\\proyectodatabasefirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D5B5DBC-5B21-4D17-A663-FA3281467DE1}|ProyectoDatabaseFirst\\ProyectoDatabaseFirst.csproj|solutionrelative:proyectodatabasefirst\\proyectodatabasefirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5B5DBC-5B21-4D17-A663-FA3281467DE1}|ProyectoDatabaseFirst\\ProyectoDatabaseFirst.csproj|c:\\users\\fwscg\\onedrive\\desktop\\curso_net8_mvc\\proyectodatabasefirst\\proyectodatabasefirst\\proyectodatabasefirst.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2D5B5DBC-5B21-4D17-A663-FA3281467DE1}|ProyectoDatabaseFirst\\ProyectoDatabaseFirst.csproj|solutionrelative:proyectodatabasefirst\\proyectodatabasefirst.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\ProyectoDatabaseFirst\\ProyectoDatabaseFirst\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoDatabaseFirst\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\ProyectoDatabaseFirst\\ProyectoDatabaseFirst\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProyectoDatabaseFirst\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T02:06:28.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\ProyectoDatabaseFirst\\ProyectoDatabaseFirst\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProyectoDatabaseFirst\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\ProyectoDatabaseFirst\\ProyectoDatabaseFirst\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProyectoDatabaseFirst\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:05:07.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pais.cs",
+              "DocumentMoniker": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\ProyectoDatabaseFirst\\ProyectoDatabaseFirst\\Models\\Pais.cs",
+              "RelativeDocumentMoniker": "ProyectoDatabaseFirst\\Models\\Pais.cs",
+              "ToolTip": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\ProyectoDatabaseFirst\\ProyectoDatabaseFirst\\Models\\Pais.cs",
+              "RelativeToolTip": "ProyectoDatabaseFirst\\Models\\Pais.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:01:27.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Continente.cs",
+              "DocumentMoniker": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\ProyectoDatabaseFirst\\ProyectoDatabaseFirst\\Models\\Continente.cs",
+              "RelativeDocumentMoniker": "ProyectoDatabaseFirst\\Models\\Continente.cs",
+              "ToolTip": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\ProyectoDatabaseFirst\\ProyectoDatabaseFirst\\Models\\Continente.cs",
+              "RelativeToolTip": "ProyectoDatabaseFirst\\Models\\Continente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:00:11.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\ProyectoDatabaseFirst\\ProyectoDatabaseFirst\\Datos\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProyectoDatabaseFirst\\Datos\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\ProyectoDatabaseFirst\\ProyectoDatabaseFirst\\Datos\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProyectoDatabaseFirst\\Datos\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T01:54:58.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\ProyectoDatabaseFirst\\ProyectoDatabaseFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "ProyectoDatabaseFirst\\appsettings.json",
+              "ToolTip": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\ProyectoDatabaseFirst\\ProyectoDatabaseFirst\\appsettings.json",
+              "RelativeToolTip": "ProyectoDatabaseFirst\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-03T01:50:38.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\ProyectoDatabaseFirst\\ProyectoDatabaseFirst\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoDatabaseFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\ProyectoDatabaseFirst\\ProyectoDatabaseFirst\\Program.cs",
+              "RelativeToolTip": "ProyectoDatabaseFirst\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T01:49:09.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProyectoDatabaseFirst",
+              "DocumentMoniker": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\ProyectoDatabaseFirst\\ProyectoDatabaseFirst\\ProyectoDatabaseFirst.csproj",
+              "RelativeDocumentMoniker": "ProyectoDatabaseFirst\\ProyectoDatabaseFirst.csproj",
+              "ToolTip": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\ProyectoDatabaseFirst\\ProyectoDatabaseFirst\\ProyectoDatabaseFirst.csproj",
+              "RelativeToolTip": "ProyectoDatabaseFirst\\ProyectoDatabaseFirst.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T01:54:13.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProyectoDatabaseFirst",
+              "DocumentMoniker": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\ProyectoDatabaseFirst\\ProyectoDatabaseFirst\\ProyectoDatabaseFirst.csproj",
+              "RelativeDocumentMoniker": "ProyectoDatabaseFirst\\ProyectoDatabaseFirst.csproj",
+              "ToolTip": "C:\\Users\\fwscg\\OneDrive\\Desktop\\Curso_Net8_MVC\\ProyectoDatabaseFirst\\ProyectoDatabaseFirst\\ProyectoDatabaseFirst.csproj",
+              "RelativeToolTip": "ProyectoDatabaseFirst\\ProyectoDatabaseFirst.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T01:39:02.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
