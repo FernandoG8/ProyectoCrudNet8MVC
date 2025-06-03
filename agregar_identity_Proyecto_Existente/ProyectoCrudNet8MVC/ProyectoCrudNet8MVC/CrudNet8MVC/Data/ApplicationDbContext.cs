@@ -14,3 +14,4 @@ namespace CrudNet8MVC.Data
         public DbSet<Contacto> Contacto { get; set; } = null!;
     }
 }
+v
